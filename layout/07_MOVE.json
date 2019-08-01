@@ -1,0 +1,140 @@
+[
+  {
+    "y": 0.3
+  },
+  "\n\n\n\n\n\n\n\n\nWin",
+  "\n\n\n\n\n\n\n\n\nScroll\nUp",
+  {
+    "y": -0.15
+  },
+  "\n\n\n\n\n\n\n\n\nBtn 4",
+  {
+    "y": -0.15
+  },
+  "\n\n\n\n\n\n\n\n\nMouse\nUp",
+  {
+    "y": 0.1
+  },
+  "\n\n\n\n\n\n\n\n\nBtn 5",
+  {
+    "y": 0.1
+  },
+  "\n\n\n\n\n\n\n\n\nAcc 0",
+  {
+    "x": 3
+  },
+  "\n\n\n\n\n\n\n\n\n",
+  {
+    "y": -0.1
+  },
+  "\n\n\n\n\n\n\n\n\nHome",
+  {
+    "y": -0.1
+  },
+  "\n\n\n\n\n\n\n\n\nUp",
+  {
+    "y": 0.15
+  },
+  "\n\n\n\n\n\n\n\n\nEnd",
+  {
+    "y": 0.15
+  },
+  "\n\n\n\n\n\n\n\n\n",
+  "\n\n\n\n\n\n\n\n\nBASE"
+],
+[
+  "\n\n\n\n\n\n\n\n\nCtrl",
+  "\n\n\n\n\n\n\n\n\nBtn 1",
+  {
+    "y": -0.15
+  },
+  "\n\n\n\n\n\n\n\n\nMouse\nLeft",
+  {
+    "y": -0.15
+  },
+  "\n\n\n\n\n\n\n\n\nMouse\nDown",
+  {
+    "y": 0.1
+  },
+  "\n\n\n\n\n\n\n\n\nMouse\nRight",
+  {
+    "y": 0.1
+  },
+  "\n\n\n\n\n\n\n\n\nAcc 1",
+  {
+    "x": 3
+  },
+  "\n\n\n\n\n\n\n\n\nPgUp",
+  {
+    "y": -0.1
+  },
+  "\n\n\n\n\n\n\n\n\nLeft",
+  {
+    "y": -0.1
+  },
+  "\n\n\n\n\n\n\n\n\nDown",
+  {
+    "y": 0.15
+  },
+  "\n\n\n\n\n\n\n\n\nRight",
+  {
+    "y": 0.15
+  },
+  "\n\n\n\n\n\n\n\n\nMEH",
+  "\n\n\n\n\n\n\n\n\nEnter"
+],
+[
+  "\n\n\n\n\n\n\n\n\nAlt",
+  "\n\n\n\n\n\n\n\n\nScroll\nDown",
+  {
+    "y": -0.15
+  },
+  "\n\n\n\n\n\n\n\n\nBtn 1",
+  {
+    "y": -0.15
+  },
+  "\n\n\n\n\n\n\n\n\nBtn 2",
+  {
+    "y": 0.1
+  },
+  "\n\n\n\n\n\n\n\n\nBtn 3",
+  {
+    "y": 0.1
+  },
+  "\n\n\n\n\n\n\n\n\nAcc 2",
+  {
+    "x": 3
+  },
+  "\n\n\n\n\n\n\n\n\nPgDn",
+  {
+    "y": -0.1
+  },
+  "\n\n\n\n\n\n\n\n\n",
+  {
+    "y": -0.1
+  },
+  "\n\n\n\n\n\n\n\n\n",
+  {
+    "y": 0.15
+  },
+  "\n\n\n\n\n\n\n\n\n",
+  {
+    "y": 0.15
+  },
+  "\n\n\n\n\n\n\n\n\nCtrl",
+  "\n\n\n\n\n\n\n\n\nAltGr"
+],
+[
+  {
+    "x": 4
+  },
+  "\n\n\n\n\n\n\n\n\nBkspc",
+  "\n\n\n\n\n\n\n\n\nShift",
+  "CODE\n\n\n\n\n\n\n\n\nEsc",
+  {
+    "x": 1
+  },
+  "SYMB\n\n\n\n\n\n\n\n\nDel",
+  "\n\n\n\n\n\n\n\n\nSpace",
+  "MOVE\n\n\n\n\n\n\n\n\nTab"
+]

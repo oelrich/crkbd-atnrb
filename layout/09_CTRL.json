@@ -1,0 +1,140 @@
+[
+  {
+    "y": 0.3
+  },
+  "\n\n\n\n\n\n\n\n\nWin",
+  "\n\n\n\n\n\n\n\n\nBASE",
+  {
+    "y": -0.15
+  },
+  "\n\n\n\n\n\n\n\n\nMedia\nPrev",
+  {
+    "y": -0.15
+  },
+  "\n\n\n\n\n\n\n\n\nMedia\nNext",
+  {
+    "y": 0.1
+  },
+  "\n\n\n\n\n\n\n\n\nMedia\nStop",
+  {
+    "y": 0.1
+  },
+  "\n\n\n\n\n\n\n\n\nMedia\nPlay",
+  {
+    "x": 3
+  },
+  "\n\n\n\n\n\n\n\n\nWeb\nHome",
+  {
+    "y": -0.1
+  },
+  "\n\n\n\n\n\n\n\n\nWeb\nFav",
+  {
+    "y": -0.1
+  },
+  "\n\n\n\n\n\n\n\n\n",
+  {
+    "y": 0.15
+  },
+  "\n\n\n\n\n\n\n\n\n",
+  {
+    "y": 0.15
+  },
+  "\n\n\n\n\n\n\n\n\n",
+  "\n\n\n\n\n\n\n\n\nBASE"
+],
+[
+  "\n\n\n\n\n\n\n\n\nCtrl",
+  "\n\n\n\n\n\n\n\n\nSYMB",
+  {
+    "y": -0.15
+  },
+  "\n\n\n\n\n\n\n\n\nCODE",
+  {
+    "y": -0.15
+  },
+  "\n\n\n\n\n\n\n\n\n",
+  {
+    "y": 0.1
+  },
+  "\n\n\n\n\n\n\n\n\nFNCT",
+  {
+    "y": 0.1
+  },
+  "\n\n\n\n\n\n\n\n\n",
+  {
+    "x": 3
+  },
+  "\n\n\n\n\n\n\n\n\n",
+  {
+    "y": -0.1
+  },
+  "\n\n\n\n\n\n\n\n\nMOVE",
+  {
+    "y": -0.1
+  },
+  "\n\n\n\n\n\n\n\n\n",
+  {
+    "y": 0.15
+  },
+  "\n\n\n\n\n\n\n\n\nCTRL",
+  {
+    "y": 0.15
+  },
+  "\n\n\n\n\n\n\n\n\n",
+  "\n\n\n\n\n\n\n\n\nEnter"
+],
+[
+  "\n\n\n\n\n\n\n\n\nAlt",
+  "\n\n\n\n\n\n\n\n\nMedia\nPrev",
+  {
+    "y": -0.15
+  },
+  "\n\n\n\n\n\n\n\n\nMedia\nNext",
+  {
+    "y": -0.15
+  },
+  "\n\n\n\n\n\n\n\n\nVol -",
+  {
+    "y": 0.1
+  },
+  "\n\n\n\n\n\n\n\n\nVol +",
+  {
+    "y": 0.1
+  },
+  "\n\n\n\n\n\n\n\n\nMute",
+  {
+    "x": 3
+  },
+  "\n\n\n\n\n\n\n\n\nWeb\nSearch",
+  {
+    "y": -0.1
+  },
+  "\n\n\n\n\n\n\n\n\nWeb\nBack",
+  {
+    "y": -0.1
+  },
+  "\n\n\n\n\n\n\n\n\nWeb\nRefr",
+  {
+    "y": 0.15
+  },
+  "\n\n\n\n\n\n\n\n\nWeb\nStop",
+  {
+    "y": 0.15
+  },
+  "\n\n\n\n\n\n\n\n\nWeb\nForwrd",
+  "\n\n\n\n\n\n\n\n\nAltGr"
+],
+[
+  {
+    "x": 4
+  },
+  "\n\n\n\n\n\n\n\n\nBkspc",
+  "\n\n\n\n\n\n\n\n\nShift",
+  "CODE\n\n\n\n\n\n\n\n\nEsc",
+  {
+    "x": 1
+  },
+  "SYMB\n\n\n\n\n\n\n\n\nDel",
+  "\n\n\n\n\n\n\n\n\nSpace",
+  "MOVE\n\n\n\n\n\n\n\n\nTab"
+]
