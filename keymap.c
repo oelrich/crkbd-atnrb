@@ -18,18 +18,18 @@ extern keymap_config_t keymap_config;
 // Three thumb keys on the left hand side
 #define LETIN KC_BSPACE
 #define LETHO KC_LSHIFT
-#define LETOT LT(_CODE, KC_ESC)
+#define LETOT LT(_CODE, KC_DEL)
 // Three thumb keys on the right hand side
 #define RITIN LT(_MOVE, KC_TAB)
 #define RITHO KC_SPACE
-#define RITOT LT(_SYMB, KC_DEL)
+#define RITOT LT(_SYMB, KC_ESC)
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     // Seriously??
     [_BASE] = LAYOUT(                                                                                            //
-        LEUPR, CTRL, KC_C, NO_AA, KC_W, KC_Z, KC_X, KC_J, KC_P, NO_AE, KC_Q, RIUPR,                              //
+        LEUPR, CTRL, KC_C, NO_AA, KC_V, KC_Z, KC_X, KC_J, KC_P, NO_AE, KC_Q, RIUPR,                              //
         LEMID, KC_A, KC_T, KC_N, KC_R, KC_B, KC_Y, KC_O, KC_S, KC_I, KC_E, RIMID,                                //
-        LELOW, KC_D, KC_M, KC_U, KC_K, KC_V, NO_OSLH, KC_G, KC_F, KC_H, KC_L, RILOW,                             //
+        LELOW, KC_D, KC_M, KC_U, KC_K, KC_W, NO_OSLH, KC_G, KC_F, KC_H, KC_L, RILOW,                             //
         LETIN, LETHO, LETOT, RITOT, RITHO, RITIN),                                                               //
     [_SYMB] = LAYOUT(                                                                                            //
         LEUPR, NO_ACUT, NO_LCBR, NO_LPRN, NO_LBRC, NO_CIRC, NO_TILD, NO_RBRC, NO_RPRN, NO_RCBR, NO_GRV, RIUPR,   //

@@ -15,7 +15,7 @@
   {
     "y": 0.1
   },
-  "\n\n\n\n\n\n\n\n\nW",
+  "\n\n\n\n\n\n\n\n\nV",
   {
     "y": 0.1
   },
@@ -101,7 +101,7 @@
   {
     "y": 0.1
   },
-  "\n\n\n\n\n\n\n\n\nV",
+  "\n\n\n\n\n\n\n\n\nW",
   {
     "x": 3
   },
@@ -130,11 +130,11 @@
   },
   "\n\n\n\n\n\n\n\n\nBkspc",
   "\n\n\n\n\n\n\n\n\nShift",
-  "CODE\n\n\n\n\n\n\n\n\nEsc",
+  "CODE\n\n\n\n\n\n\n\n\nDel",
   {
     "x": 1
   },
-  "SYMB\n\n\n\n\n\n\n\n\nDel",
+  "SYMB\n\n\n\n\n\n\n\n\nEsc",
   "\n\n\n\n\n\n\n\n\nSpace",
   "MOVE\n\n\n\n\n\n\n\n\nTab"
 ]
