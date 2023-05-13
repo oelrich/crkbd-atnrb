@@ -30,4 +30,4 @@ A layout for the Corne keyboard.
 
 ## Stuff
 
-Images generated using [ww.keyboard-layout-editor.com](http://www.keyboard-layout-editor.com).
+Images generated using [www.keyboard-layout-editor.com](http://www.keyboard-layout-editor.com).
